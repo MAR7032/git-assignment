@@ -24,6 +24,8 @@ class Collatz {
         return $results;
     }
     // Version 2 change
+
+    // Version 3 change
     public function stats($start, $end) {
         $data = $this->calculate($start, $end);
         
