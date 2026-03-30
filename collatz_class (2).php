@@ -26,9 +26,6 @@ class Collatz {
     // Version 2 change
 
     // Version 3 change
-
-    // feature branch change
-    
     public function stats($start, $end) {
         $data = $this->calculate($start, $end);
         
