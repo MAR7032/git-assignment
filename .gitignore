@@ -1,0 +1,7 @@
+*.log
+*.exe
+*.class
+.env
+node_modules/
+.vscode/
+.idea/ 
